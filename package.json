@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.6.0",
+    "figlet": "^1.8.2",
+    "inquirer": "^12.9.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
