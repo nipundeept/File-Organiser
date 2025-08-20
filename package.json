@@ -5,5 +5,27 @@
     "figlet": "^1.8.2",
     "inquirer": "^12.9.3",
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "name": "file-organiser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nipundeept/File-Organiser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nipundeept/File-Organiser/issues"
+  },
+  "homepage": "https://github.com/nipundeept/File-Organiser#readme",
+    "bin": {
+  "file-organiser": "./main.js"
+    }
 }
