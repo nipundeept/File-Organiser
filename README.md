@@ -31,13 +31,3 @@ Example:
 file-organiser organise /Users/nipun/Downloads
 file-organiser help
 
-
-Structure:
-file-organiser/
-│── contents/
-│   ├── help.js          # Help instructions
-│   ├── organise.js      # Organising logic
-│   ├── types.js         # File type categories
-│── main.js              # Entry point
-│── package.json
-
