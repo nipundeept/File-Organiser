@@ -24,10 +24,13 @@ npm link
 
 📖 Usage:
 Run the tool in your terminal:
-file-organiser organise <directory-path>
+file-organiser
+Enter your command: organise <directory>
 
 
 Example:
-file-organiser organise /Users/nipun/Downloads
+file-organiser
+organise /Users/nipun/Downloads
+
 file-organiser help
 
